@@ -12,6 +12,12 @@
       "role": "FREE",
       "expiresAt": 1789447092,
       "createdAt": 1789360692
+    },
+    "SCOR-00RH-1V5T": {
+      "status": "active",
+      "role": "FREE",
+      "expiresAt": 1789447100,
+      "createdAt": 1789360701
     }
   }
 }
