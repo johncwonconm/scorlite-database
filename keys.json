@@ -1,4 +1,11 @@
 {
   "globalKillswitch": false,
-  "keys": {}
+  "keys": {
+    "SCOR-H0BR-IEQO": {
+      "status": "active",
+      "role": "FREE",
+      "expiresAt": 1789447030,
+      "createdAt": 1789360630
+    }
+  }
 }
