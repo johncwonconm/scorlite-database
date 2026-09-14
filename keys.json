@@ -6,6 +6,12 @@
       "role": "FREE",
       "expiresAt": 1789447030,
       "createdAt": 1789360630
+    },
+    "SCOR-25Q4-VQUW": {
+      "status": "active",
+      "role": "FREE",
+      "expiresAt": 1789447092,
+      "createdAt": 1789360692
     }
   }
 }
