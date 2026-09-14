@@ -1,7 +1,4 @@
 {
-  "SCORLITE-FREE-1234": { "Tier": "FREE", "Active": true },
-  "SCORLITE-VIP-5678":  { "Tier": "VIP",  "Active": true },
-  "SCORLITE-DEV-0000":  { "Tier": "DEV",  "Active": false },
-  "scorlitebeta":        { "Tier": "BETA", "Active": true },
-  "SCORLITE-ADMIN-9999":{ "Tier": "ADMIN", "Active": true }
+  "globalKillswitch": false,
+  "keys": {}
 }
